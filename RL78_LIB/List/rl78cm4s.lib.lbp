@@ -1,0 +1,376 @@
+Renesas Optimizing Linker (W3.03.00 )             20-Sep-2021 19:12:51
+
+*** Options ***
+
+-library=./RL78_LIB/rl78cm4s.lib
+-form=library
+-list=./RL78_LIB/List/rl78cm4s.lib.lbp
+
+*** Error information ***
+
+*** Library Information ***
+
+LIBRARY NAME=rl78cm4s.lib
+CPU=RL78
+ENDIAN=Little
+ATTRIBUTE=system
+NUMBER OF MODULE=176
+
+*** Library List ***
+
+MODULE    LAST UPDATE
+  SECTION
+    SYMBOL
+
+abort
+          19-Nov-2020 21:14:07
+abs
+          19-Nov-2020 21:14:07
+acos
+          19-Nov-2020 21:14:07
+acosf
+          19-Nov-2020 21:14:07
+asin
+          19-Nov-2020 21:14:07
+asinf
+          19-Nov-2020 21:14:07
+atan
+          19-Nov-2020 21:14:07
+atan2
+          19-Nov-2020 21:14:07
+atan2f
+          19-Nov-2020 21:14:08
+atanf
+          19-Nov-2020 21:14:08
+atof
+          19-Nov-2020 21:14:08
+atoff
+          19-Nov-2020 21:14:08
+atoi
+          19-Nov-2020 21:14:08
+atol
+          19-Nov-2020 21:14:08
+bsearch
+          19-Nov-2020 21:14:08
+ceil
+          19-Nov-2020 21:14:08
+ceilf
+          19-Nov-2020 21:14:08
+cos
+          19-Nov-2020 21:14:08
+cosf
+          19-Nov-2020 21:14:08
+cosh
+          19-Nov-2020 21:14:08
+coshf
+          19-Nov-2020 21:14:08
+div
+          19-Nov-2020 21:14:08
+errno
+          19-Nov-2020 21:13:54
+exp
+          19-Nov-2020 21:14:08
+expf
+          19-Nov-2020 21:14:08
+fabs
+          19-Nov-2020 21:14:08
+fabsf
+          19-Nov-2020 21:14:08
+floor
+          19-Nov-2020 21:14:08
+floorf
+          19-Nov-2020 21:14:08
+fmod
+          19-Nov-2020 21:14:08
+fmodf
+          19-Nov-2020 21:14:08
+frexp
+          19-Nov-2020 21:14:08
+frexpf
+          19-Nov-2020 21:14:08
+getchar
+          19-Nov-2020 21:14:08
+gets
+          19-Nov-2020 21:14:08
+isalnum
+          19-Nov-2020 21:14:08
+isalpha
+          19-Nov-2020 21:14:08
+isascii
+          19-Nov-2020 21:14:08
+iscntrl
+          19-Nov-2020 21:14:08
+isdigit
+          19-Nov-2020 21:14:08
+isgraph
+          19-Nov-2020 21:14:08
+islower
+          19-Nov-2020 21:14:08
+isprint
+          19-Nov-2020 21:14:08
+ispunct
+          19-Nov-2020 21:14:08
+isspace
+          19-Nov-2020 21:14:08
+isupper
+          19-Nov-2020 21:14:08
+isxdigit
+          19-Nov-2020 21:14:08
+labs
+          19-Nov-2020 21:14:08
+ldexp
+          19-Nov-2020 21:14:08
+ldexpf
+          19-Nov-2020 21:14:08
+ldiv
+          19-Nov-2020 21:14:08
+log
+          19-Nov-2020 21:14:08
+log10
+          19-Nov-2020 21:14:08
+log10f
+          19-Nov-2020 21:14:08
+logf
+          19-Nov-2020 21:14:08
+longjmp
+          19-Nov-2020 21:14:08
+memchr
+          19-Nov-2020 21:14:08
+memcmp
+          19-Nov-2020 21:14:08
+memmove
+          19-Nov-2020 21:14:08
+modf
+          19-Nov-2020 21:14:08
+modff
+          19-Nov-2020 21:14:08
+perror
+          19-Nov-2020 21:14:08
+pi4dtable
+          19-Nov-2020 21:13:57
+pow
+          19-Nov-2020 21:14:08
+powf
+          19-Nov-2020 21:14:08
+printf
+          19-Nov-2020 21:14:08
+printf_tiny
+          19-Nov-2020 21:14:08
+putchar
+          19-Nov-2020 21:14:08
+puts
+          19-Nov-2020 21:14:08
+qsort
+          19-Nov-2020 21:14:08
+rand
+          19-Nov-2020 21:14:08
+renesas_version_copyright_rl78cm4s
+          19-Nov-2020 21:14:04
+scanf
+          19-Nov-2020 21:14:08
+setjmp
+          19-Nov-2020 21:14:08
+sin
+          19-Nov-2020 21:14:08
+sinf
+          19-Nov-2020 21:14:08
+sinh
+          19-Nov-2020 21:14:08
+sinhf
+          19-Nov-2020 21:14:08
+sprintf
+          19-Nov-2020 21:14:08
+sprintf_tiny
+          19-Nov-2020 21:14:08
+sqrt
+          19-Nov-2020 21:14:08
+sqrtf
+          19-Nov-2020 21:14:08
+sscanf
+          19-Nov-2020 21:14:08
+strcat
+          19-Nov-2020 21:14:08
+strchr
+          19-Nov-2020 21:14:08
+strcmp
+          19-Nov-2020 21:14:08
+strcpy
+          19-Nov-2020 21:14:08
+strcspn
+          19-Nov-2020 21:14:08
+strerror
+          19-Nov-2020 21:14:08
+strlen
+          19-Nov-2020 21:14:08
+strncat
+          19-Nov-2020 21:14:08
+strncmp
+          19-Nov-2020 21:14:08
+strncpy
+          19-Nov-2020 21:14:08
+strpbrk
+          19-Nov-2020 21:14:08
+strrchr
+          19-Nov-2020 21:14:08
+strspn
+          19-Nov-2020 21:14:08
+strstr
+          19-Nov-2020 21:14:08
+strtod
+          19-Nov-2020 21:14:08
+strtof
+          19-Nov-2020 21:14:08
+strtok
+          19-Nov-2020 21:14:08
+strtol
+          19-Nov-2020 21:14:08
+strtoul
+          19-Nov-2020 21:14:08
+tan
+          19-Nov-2020 21:14:08
+tanf
+          19-Nov-2020 21:14:08
+tanh
+          19-Nov-2020 21:14:08
+tanhf
+          19-Nov-2020 21:14:08
+toascii
+          19-Nov-2020 21:14:08
+tolower
+          19-Nov-2020 21:14:08
+toupper
+          19-Nov-2020 21:14:08
+vprintf
+          19-Nov-2020 21:14:08
+vsprintf
+          19-Nov-2020 21:14:08
+_COM_atoff_f
+          19-Nov-2020 21:14:08
+_COM_atof_f
+          19-Nov-2020 21:14:08
+_COM_atoi_f
+          19-Nov-2020 21:14:08
+_COM_atol_f
+          19-Nov-2020 21:14:08
+_COM_bsearch_f
+          19-Nov-2020 21:14:08
+_COM_gets_f
+          19-Nov-2020 21:14:08
+_COM_memchr_f
+          19-Nov-2020 21:14:08
+_COM_memcmp_ff
+          19-Nov-2020 21:14:08
+_COM_memmove_ff
+          19-Nov-2020 21:14:08
+_COM_perror_f
+          19-Nov-2020 21:14:08
+_COM_puts_f
+          19-Nov-2020 21:14:08
+_COM_qsort_f
+          19-Nov-2020 21:14:08
+_COM_strcat_ff
+          19-Nov-2020 21:14:08
+_COM_strchr_f
+          19-Nov-2020 21:14:08
+_COM_strcmp_ff
+          19-Nov-2020 21:14:08
+_COM_strcpy_ff
+          19-Nov-2020 21:14:08
+_COM_strcspn_ff
+          19-Nov-2020 21:14:08
+_COM_strlen_f
+          19-Nov-2020 21:14:08
+_COM_strncat_ff
+          19-Nov-2020 21:14:08
+_COM_strncmp_ff
+          19-Nov-2020 21:14:08
+_COM_strncpy_ff
+          19-Nov-2020 21:14:08
+_COM_strpbrk_ff
+          19-Nov-2020 21:14:08
+_COM_strrchr_f
+          19-Nov-2020 21:14:08
+_COM_strspn_ff
+          19-Nov-2020 21:14:08
+_COM_strstr_ff
+          19-Nov-2020 21:14:08
+_COM_strtod_ff
+          19-Nov-2020 21:14:09
+_COM_strtof_ff
+          19-Nov-2020 21:14:09
+_COM_strtol_ff
+          19-Nov-2020 21:14:09
+_COM_strtoul_ff
+          19-Nov-2020 21:14:09
+_REL_app_atand
+          19-Nov-2020 21:14:09
+_REL_app_atans
+          19-Nov-2020 21:14:09
+_REL_asincosfsub
+          19-Nov-2020 21:14:09
+_REL_in_atan2d
+          19-Nov-2020 21:14:09
+_REL_in_atan2s
+          19-Nov-2020 21:14:09
+_REL_in_atand
+          19-Nov-2020 21:14:09
+_REL_in_atans
+          19-Nov-2020 21:14:09
+_REL_in_ceild
+          19-Nov-2020 21:14:09
+_REL_in_ceils
+          19-Nov-2020 21:14:09
+_REL_in_expd
+          19-Nov-2020 21:14:09
+_REL_in_exps
+          19-Nov-2020 21:14:09
+_REL_in_floord
+          19-Nov-2020 21:14:09
+_REL_in_floors
+          19-Nov-2020 21:14:09
+_REL_in_fmodd
+          19-Nov-2020 21:14:09
+_REL_in_fmods
+          19-Nov-2020 21:14:09
+_REL_in_ldexpd
+          19-Nov-2020 21:14:09
+_REL_in_ldexps
+          19-Nov-2020 21:14:09
+_REL_in_logd
+          19-Nov-2020 21:14:09
+_REL_in_logs
+          19-Nov-2020 21:14:09
+_REL_in_modfd
+          19-Nov-2020 21:14:09
+_REL_in_modfs
+          19-Nov-2020 21:14:09
+_REL_in_powd
+          19-Nov-2020 21:14:09
+_REL_in_pows
+          19-Nov-2020 21:14:09
+_REL_logd_special
+          19-Nov-2020 21:14:09
+_REL_logf_special
+          19-Nov-2020 21:14:09
+_REL_nand_value
+          19-Nov-2020 21:14:09
+_REL_nanf_value
+          19-Nov-2020 21:14:09
+_REL_neginfd_value
+          19-Nov-2020 21:14:09
+_REL_neginff_value
+          19-Nov-2020 21:14:09
+_REL_posinfd_value
+          19-Nov-2020 21:14:09
+_REL_posinff_value
+          19-Nov-2020 21:14:09
+_REL_print
+          19-Nov-2020 21:14:09
+_REL_print_tiny
+          19-Nov-2020 21:14:09
+_REL_scan
+          19-Nov-2020 21:14:09
+_REL_sincosdsub
+          19-Nov-2020 21:14:09
+_REL_sincosfsub
+          19-Nov-2020 21:14:09
