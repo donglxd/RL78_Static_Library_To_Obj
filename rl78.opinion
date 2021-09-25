@@ -1,0 +1,13 @@
+<opinions>
+  <constraint loader="Executable and Linking Format (ELF)">
+    <constraint compilerSpecID="default">
+      <constraint primary="197" secondary="18177" processor="rl78" endian="little" size="16" variant="default"/>
+	  <constraint primary="197" secondary="768" processor="rl78" endian="little" size="16" variant="default"/>
+	  <constraint primary="197" secondary="0" processor="rl78" endian="little" size="16" variant="default"/>
+	  <constraint primary="197" secondary="776" processor="rl78" endian="little" size="16" variant="default"/>
+	  <constraint primary="197" secondary="18184" processor="rl78" endian="little" size="16" variant="default"/>
+	  <constraint primary="197" secondary="20232" processor="rl78" endian="little" size="16" variant="default"/>
+	  <constraint primary="197" secondary="17408" processor="rl78" endian="little" size="16" variant="default"/>
+    </constraint>
+  </constraint>
+</opinions>
